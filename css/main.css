@@ -11,7 +11,7 @@ body {
 }
 
 img {
-	/*width: 70%;*/
+	width: 70%;
 	height: 200px;
 }
 
@@ -35,13 +35,13 @@ p {
 }
 
 .panel-body {
-	height: 500px;
+	height: 600px;
 }
 
 .btn {
 	position: absolute;
 	bottom: 40px;
-	width: 90%;
+	width: 83%;
 }
 
 .btn-success {
@@ -65,7 +65,7 @@ p {
 }
 
 .modal {
-	top: 300px;
+	top: 200px;
 }
 
 .modal-header {
