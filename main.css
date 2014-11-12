@@ -1,0 +1,76 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+   padding-top: 60px;
+   padding-bottom: 20px;
+   background-color: #f4f3f3;
+}
+
+img {
+	/*width: 70%;*/
+	height: 200px;
+}
+
+h2 {
+	font-family: 'Montserrat';
+}
+
+p {
+	font-family: 'Open Sans';
+	font-size: 18px;
+}
+
+.title {
+	text-align: center;
+	color: white;
+	font-family: 'Montserrat';
+}
+
+.top-pad {
+	padding-top: 30px;
+}
+
+.panel-body {
+	height: 500px;
+}
+
+.btn {
+	position: absolute;
+	bottom: 40px;
+	width: 90%;
+}
+
+.btn-success {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	background-image: none;
+	font-size: 20px;
+	font-family: 'Open Sans';
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
+	color: #fff;
+	background-color: #449d44;
+	border-color: #398439;
+	background-image: none;
+}
+
+..modal.in .modal-dialog {
+	/*margin-top: 300px;*/
+}
+
+.modal {
+	top: 300px;
+}
+
+.modal-header {
+	min-height: 16.43px;
+	padding: 15px;
+	text-align: center;
+	border-bottom: 1px solid #e5e5e5;
+}
